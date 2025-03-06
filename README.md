@@ -4,9 +4,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues/abhinavrajdevx/bot-to-fill-forms-puppeteer-extra-stealth)](https://github.com/abhinavrajdevx/bot-to-fill-forms-puppeteer-extra-stealth/issues)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-<p align="center">
-  <img src="https://i.imgur.com/your_image_here.png" alt="Bot Filling Form" width="400">
-</p>
 
 This repository demonstrates how to create a bot using Puppeteer Extra with the Stealth plugin to automatically fill out web forms. It specifically targets a simple credit card form, showcasing how to bypass anti-bot detection and automate form submissions.
 
